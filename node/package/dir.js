@@ -21,6 +21,6 @@ const fs = require('fs');
 
 // readfilesynch 
 
-let fol= fs.readdirSync('C:\\Users\\amand\\OneDrive\\Desktop\\pepcoding\\javascirpt');
+// let fol= fs.readdirSync('C:\\Users\\amand\\OneDrive\\Desktop\\pepcoding\\javascirpt');
 
-console.log(fol);
+// console.log(fol);
