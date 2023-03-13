@@ -27,5 +27,19 @@ console.log(uppercase)
 let lowercase= str.toLowerCase();
 console.log(lowercase)
 
+// concat
+
+let first="hello";
+let second="second";
+
+let concat= first.concat(" ",second);
+// console.log(concat)
+
+// trim 
+
+let trim= str.trim();
+
+console.log(trim);
+
 
 
